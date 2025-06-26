@@ -10,6 +10,14 @@ node_modules/
 !.yarn/releases
 !.yarn/versions
 
+# .NET / ASP.NET Core
+backend/bin/
+backend/obj/
+backend/.vs/
+backend/*.db
+backend/*.log
+backend/launchSettings.json
+
 # testing
 coverage
 
